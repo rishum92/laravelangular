@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+header 
+.bg-blue {background-color:#008BBB;}
+.navbar-dark .navbar-nav .nav-link {color:#fff;}
+.navbar-dark .navbar-nav .active .nav-link {color:#fff;}
+
+
+
+
+footer {background-color: #008BBB;color:#fff; padding:10px;}
+
+/*validation*/
+
